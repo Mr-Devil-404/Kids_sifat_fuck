@@ -1,3 +1,5 @@
+#fuck By: Your father MrDevilEx
+#তোর প্রতি টা  script ডিকোড করবো মাদারচোদ🖕
 # -*- coding: utf-8 -*-
 import os
 import sys
